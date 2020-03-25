@@ -6,14 +6,14 @@
     Juan Gustavo
 */
 
-// Espaço destilado a importacão de bibliotecas
+// Espaço destinado a importacão de bibliotecas
 import java.util.Random;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class ProjetoPI {
-// Declarar Variaveis Global
+// Declarar Variaveis Globais
 static String CSI = "\u001B["; // variavel para mudar texto de cor
 static String [] personagens = new String [4];
 static Random gerador = new Random();
